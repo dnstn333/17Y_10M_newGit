@@ -1,6 +1,7 @@
 ﻿A
 b
 == Title : Git입니다 ==
+== Title : Git2입니다 ==
 
 Git
 >>저장소
