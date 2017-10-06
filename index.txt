@@ -7,5 +7,6 @@ Git
 >>자료
 >>Branch
 >>브랜치
+>>충돌
 
 body
