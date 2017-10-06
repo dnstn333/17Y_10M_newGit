@@ -6,5 +6,6 @@ Git
 >>저장소
 >>자료
 >>Branch
+>>브랜치
 
 body
